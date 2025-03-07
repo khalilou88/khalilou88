@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! 👋 Welcome to My GitHub Profile
 
-<!--
-**khalilou88/khalilou88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Khalil LAGRIDA, a passionate Full-Stack Developer specialized in Java and Angular. I love building scalable and efficient applications while contributing to open-source projects! 🚀
 
-Here are some ideas to get you started:
+## 🌍 Open Source Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Semantic Components](https://www.semantic-components.com): A UI component library for Angular
+- [Semantic Icons](https://github.com/khalilou88/semantic-icons): A collection of icon libraries for Angular
+- [JNxPlus](https://github.com/khalilou88/jnxplus): Java/Kotlin project integration in Nx Workspace using Gradle and Maven
+
+## 🔗 Connect with Me
+
+- 📫 Email: [khalil.lagrida@gmail.com](mailto:khalil.lagrida@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/khalil-lagrida-9989b72b)
+- 📝 [Blog](https://dev.to/gridou)
+- 🏗️ [GitHub](https://github.com/khalilou88)
+
+Thanks for visiting! Feel free to explore my repositories and connect. 😊
